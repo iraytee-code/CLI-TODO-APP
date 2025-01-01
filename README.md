@@ -1,5 +1,5 @@
 # Command-line Todo App
-
+Sample solution for the [task-tracker](https://roadmap.sh/projects/task-tracker) challenge from [roadmap.sh](https://roadmap.sh/).
 ### Description
 
 - A Node.js command-line application for managing tasks with status tracking and filtering.
@@ -13,7 +13,21 @@
 - Delete tasks by name
 - Storage using JSON
 
-##### Usage
+## Prerequisites
+
+- Node.js installed on your system.
+
+## Installation
+
+**Clone the Repository**
+
+   ```bash
+   git clone --depth=1 https://github.com/iraytee-code/CLI-TODO-APP.git
+
+   # Navigate to the project Directory
+   cd CLI-TODO-APP
+```
+
 
 ```
  node todo.js <command> <taskname> [additional args]
